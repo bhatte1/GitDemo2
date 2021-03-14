@@ -6,6 +6,8 @@ public class basics3 {
 		// TODO Auto-generated method stub	
 	String[] array1 = {"a", "b", "c", "x"};
 	String[] array2 = {"z", "y", "x"};
+	String[] array3 = {"z", "y", "x"};
+	
 	findNemo(array1, array2);
 		
 	}
