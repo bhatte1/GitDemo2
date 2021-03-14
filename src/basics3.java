@@ -7,6 +7,7 @@ public class basics3 {
 	String[] array1 = {"a", "b", "c", "x"};
 	String[] array2 = {"z", "y", "x"};
 	String[] array3 = {"z", "y", "x"};
+	String[] array4 = ["Vinayak"]
 	
 	findNemo(array1, array2);
 		
